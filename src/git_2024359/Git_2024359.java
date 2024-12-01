@@ -20,6 +20,8 @@ public class Git_2024359 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        // print a name and student ID
+        System.out.println("Egshiglen - 2024359");
     }
     
 }
